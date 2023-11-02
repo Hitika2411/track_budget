@@ -1,0 +1,7 @@
+#Thu Nov 02 10:55:34 IST 2023
+base.0=C\:\\Users\\dell\\Desktop\\code\\flutterprojects\\track_budget\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=C\:\\Users\\dell\\Desktop\\code\\flutterprojects\\track_budget\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
