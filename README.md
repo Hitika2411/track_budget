@@ -15,6 +15,8 @@ It has the following features:
 
 1: To run this project ,one must have flutter sdk, visual studio,visual studio code,android studio,android emulators ,git installed .
 Then , clone this project by running the command git clone in the folder where you want to clone this project by running the command git clone
+
+
 2: 
 **To run this app on android /ios emulator/phone:**
 press ctrl+shift+p on visual studio code and run command flutter select device and choose the required device from the drop down .
@@ -23,7 +25,10 @@ On the command prompt, in the root directory of this project, run flutter run .
 On the command prompt , run the command flutter run in the root directory of the project.
 From the options prompted,choose the appropriate platform.
 
+
+
 3: wait for the build process to finish .It usually takes 5-10 minutes to complete.
+
 4: Once the project is build ,you can simply run it like an app without repeating the process again.
 ## Author
 
